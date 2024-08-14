@@ -1,0 +1,36 @@
+2024-08-12 14:51:19,269 - CoverFoxInsurance -INFO - launching browser
+2024-08-12 14:51:21,063 - CoverFoxInsurance -INFO - clicking on male button
+2024-08-12 14:51:23,474 - CoverFoxInsurance -WARN - Age should be between 18-90
+2024-08-12 14:51:23,476 - CoverFoxInsurance -INFO - Select age from age drop down
+2024-08-12 14:51:24,682 - CoverFoxInsurance -INFO - click on next button
+2024-08-12 14:51:25,866 - CoverFoxInsurance -WARN - please enter valid pincode
+2024-08-12 14:51:25,866 - CoverFoxInsurance -INFO - please enter pincode
+2024-08-12 14:51:27,040 - CoverFoxInsurance -WARN - please enter valid mobile number
+2024-08-12 14:51:27,218 - CoverFoxInsurance -INFO - enter mobile number
+2024-08-12 14:51:28,352 - CoverFoxInsurance -INFO - click on continue button
+2024-08-12 14:51:34,542 - CoverFoxInsurance -INFO - validating banners
+2024-08-12 14:51:34,808 - CoverFoxInsurance -INFO - closing browser
+2024-08-12 16:55:05,645 - CoverFoxInsurance -INFO - launching browser
+2024-08-12 16:55:09,553 - CoverFoxInsurance -INFO - clicking on male button
+2024-08-12 16:55:12,327 - CoverFoxInsurance -WARN - Age should be between 18-90
+2024-08-12 16:55:12,328 - CoverFoxInsurance -INFO - Select age from age drop down
+2024-08-12 16:55:13,453 - CoverFoxInsurance -INFO - click on next button
+2024-08-12 16:55:14,607 - CoverFoxInsurance -WARN - please enter valid pincode
+2024-08-12 16:55:14,608 - CoverFoxInsurance -INFO - please enter pincode
+2024-08-12 16:55:15,758 - CoverFoxInsurance -WARN - please enter valid mobile number
+2024-08-12 16:55:15,759 - CoverFoxInsurance -INFO - enter mobile number
+2024-08-12 16:55:16,894 - CoverFoxInsurance -INFO - click on continue button
+2024-08-12 16:55:23,032 - CoverFoxInsurance -INFO - validating banners
+2024-08-12 16:55:23,157 - CoverFoxInsurance -INFO - closing browser
+2024-08-12 19:45:55,497 - CoverFoxInsurance -INFO - launching browser
+2024-08-12 19:45:56,656 - CoverFoxInsurance -INFO - clicking on male button
+2024-08-12 19:45:59,179 - CoverFoxInsurance -WARN - Age should be between 18-90
+2024-08-12 19:45:59,181 - CoverFoxInsurance -INFO - Select age from age drop down
+2024-08-12 19:46:00,307 - CoverFoxInsurance -INFO - click on next button
+2024-08-12 19:46:01,507 - CoverFoxInsurance -WARN - please enter valid pincode
+2024-08-12 19:46:01,508 - CoverFoxInsurance -INFO - please enter pincode
+2024-08-12 19:46:02,670 - CoverFoxInsurance -WARN - please enter valid mobile number
+2024-08-12 19:46:02,671 - CoverFoxInsurance -INFO - enter mobile number
+2024-08-12 19:46:03,809 - CoverFoxInsurance -INFO - click on continue button
+2024-08-12 19:46:09,920 - CoverFoxInsurance -INFO - validating banners
+2024-08-12 19:46:10,051 - CoverFoxInsurance -INFO - closing browser
