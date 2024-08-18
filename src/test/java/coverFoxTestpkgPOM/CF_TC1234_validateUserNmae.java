@@ -10,5 +10,9 @@ public class CF_TC1234_validateUserNmae {
 	public void validateUserName() {
 		Reporter.log("This is validate user name class",true);
 	}
+	@Test
+	public void validateButton() {
+		Reporter.log("This is validate button class",true);
+	}
 	
 }
