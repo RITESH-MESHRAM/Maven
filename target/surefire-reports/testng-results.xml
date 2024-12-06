@@ -14,23 +14,23 @@
       <![CDATA[TC coverfoxResult completed successfully ]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-08-12T19:45:39 IST" name="Suite" finished-at="2024-08-12T19:46:10 IST" duration-ms="30591">
+  <suite started-at="2024-10-05T23:24:12 IST" name="Suite" finished-at="2024-10-05T23:24:41 IST" duration-ms="29047">
     <groups>
     </groups>
-    <test started-at="2024-08-12T19:45:39 IST" name="CFTest" finished-at="2024-08-12T19:46:10 IST" duration-ms="30591">
+    <test started-at="2024-10-05T23:24:12 IST" name="CFTest" finished-at="2024-10-05T23:24:41 IST" duration-ms="29047">
       <class name="coverFoxTestpkgPOM.CoverFoxTests">
-        <test-method is-config="true" signature="Preconditions()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-08-12T19:45:39 IST" name="Preconditions" finished-at="2024-08-12T19:45:55 IST" duration-ms="16119" status="PASS">
+        <test-method is-config="true" signature="Preconditions()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-10-05T23:24:12 IST" name="Preconditions" finished-at="2024-10-05T23:24:26 IST" duration-ms="14343" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Preconditions -->
-        <test-method is-config="true" signature="browserOpen()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-08-12T19:45:55 IST" name="browserOpen" finished-at="2024-08-12T19:46:03 IST" duration-ms="8184" status="PASS">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-10-05T23:24:26 IST" name="browserOpen" finished-at="2024-10-05T23:24:34 IST" duration-ms="8406" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicking on continue button]]>
             </line>
           </reporter-output>
         </test-method> <!-- browserOpen -->
-        <test-method signature="coverfoxResult()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-08-12T19:46:03 IST" name="coverfoxResult" finished-at="2024-08-12T19:46:10 IST" duration-ms="6215" status="PASS">
+        <test-method signature="coverfoxResult()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-10-05T23:24:34 IST" name="coverfoxResult" finished-at="2024-10-05T23:24:41 IST" duration-ms="6214" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TC coverfoxResult execution started]]>
@@ -43,7 +43,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- coverfoxResult -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-08-12T19:46:10 IST" name="closeBrowser" finished-at="2024-08-12T19:46:10 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTestpkgPOM.CoverFoxTests@34a3d150]" started-at="2024-10-05T23:24:41 IST" name="closeBrowser" finished-at="2024-10-05T23:24:41 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

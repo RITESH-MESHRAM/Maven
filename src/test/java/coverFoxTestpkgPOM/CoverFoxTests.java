@@ -90,7 +90,7 @@ public class CoverFoxTests extends DriverBase{
 	  Assert.assertEquals(cfrp.Resultbanners(),cfrp.getPlanNumbersFromBanners(),"banner is not equals to results,TC failed");
 	  cfrp.sortdropdownisdiplayed();
 	  Reporter.log("sort dopdown is displayed", true);
-	  
+	 // Assert.fail();
   }
 	  
   @AfterClass

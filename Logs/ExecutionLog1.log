@@ -34,3 +34,291 @@
 2024-08-12 19:46:03,809 [main] INFO CoverFoxInsurance - click on continue button
 2024-08-12 19:46:09,920 [main] INFO CoverFoxInsurance - validating banners
 2024-08-12 19:46:10,051 [main] INFO CoverFoxInsurance - closing browser
+2024-08-19 10:17:44,491 [main] INFO CoverFoxInsurance - launching browser
+2024-08-19 10:17:48,364 [main] INFO CoverFoxInsurance - clicking on male button
+2024-08-19 10:17:53,026 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-08-19 10:17:53,028 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-08-19 10:17:54,173 [main] INFO CoverFoxInsurance - click on next button
+2024-08-19 10:17:55,358 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-08-19 10:17:55,359 [main] INFO CoverFoxInsurance - please enter pincode
+2024-08-19 10:17:56,526 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-08-19 10:17:56,527 [main] INFO CoverFoxInsurance - enter mobile number
+2024-08-19 10:17:57,694 [main] INFO CoverFoxInsurance - click on continue button
+2024-08-19 10:18:03,965 [main] INFO CoverFoxInsurance - validating banners
+2024-08-19 10:18:04,119 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 14:55:35,827 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 14:55:39,294 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 14:55:43,376 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 14:55:43,379 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 14:55:44,492 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 14:55:46,930 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 14:55:47,001 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 14:55:48,163 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 14:55:48,165 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 14:55:49,313 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 14:55:57,961 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 14:55:58,466 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 15:01:53,960 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 15:01:58,066 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 15:02:01,825 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 15:02:01,826 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 15:02:02,963 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 15:02:04,128 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 15:02:04,129 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 15:02:05,311 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 15:02:05,312 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 15:02:06,454 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 15:02:12,593 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 15:02:12,762 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 15:04:12,117 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 15:04:35,563 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 15:04:38,234 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 15:04:38,236 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 15:04:39,408 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 15:04:40,660 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 15:04:40,661 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 15:04:41,917 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 15:04:41,921 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 15:04:43,097 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 15:04:49,263 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 15:04:49,430 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:47:45,936 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:48:04,664 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:48:08,802 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:48:08,803 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:48:10,022 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:48:11,272 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:48:11,273 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:48:12,863 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:48:12,866 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:48:14,098 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:48:20,381 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:48:20,620 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:50:01,553 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:50:04,142 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:50:06,830 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:50:06,832 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:50:08,192 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:50:09,466 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:50:09,467 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:50:10,623 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:50:10,624 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:50:11,772 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:50:17,940 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:50:18,293 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:51:32,431 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:51:33,818 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:51:40,129 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:51:40,130 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:51:41,435 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:51:43,245 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:51:43,246 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:51:44,475 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:51:44,477 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:51:45,823 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:51:52,224 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:51:52,682 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:53:06,917 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:53:21,155 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:53:26,899 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:53:26,900 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:53:28,367 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:53:29,829 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:53:29,831 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:53:31,073 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:53:31,076 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:53:32,348 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:53:38,685 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:53:39,096 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:55:05,155 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:55:08,324 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:55:12,656 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:55:12,657 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:55:13,934 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:55:15,637 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:55:15,640 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:55:16,917 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:55:16,918 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:55:18,332 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:55:24,705 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:55:25,063 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:56:48,373 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:56:52,168 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:56:55,506 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:56:55,507 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:56:57,291 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:56:58,736 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:56:58,737 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:56:59,996 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:56:59,997 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:57:01,267 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:57:07,550 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:57:07,910 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 22:59:02,994 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 22:59:07,638 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 22:59:10,781 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 22:59:10,783 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 22:59:11,928 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 22:59:13,245 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 22:59:13,246 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 22:59:14,432 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 22:59:14,433 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 22:59:15,646 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 22:59:21,781 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 22:59:22,017 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:00:25,611 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:00:26,890 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:00:29,330 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:00:29,330 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:00:31,019 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:00:32,380 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:00:32,383 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:00:33,520 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:00:33,521 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:00:34,698 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:00:40,817 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:00:40,932 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:02:22,978 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:02:24,783 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:02:27,513 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:02:27,514 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:02:28,630 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:02:29,817 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:02:29,818 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:02:30,965 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:02:30,965 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:02:32,102 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:02:38,214 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:02:38,335 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:04:30,223 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:04:33,756 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:04:36,300 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:04:36,300 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:04:37,584 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:04:39,202 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:04:39,203 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:04:40,371 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:04:40,373 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:04:41,554 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:04:47,679 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:04:47,790 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:06:22,050 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:06:24,691 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:06:27,358 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:06:27,359 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:06:28,482 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:06:29,626 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:06:29,629 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:06:30,783 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:06:30,784 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:06:31,934 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:06:38,047 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:06:38,169 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:08:25,087 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:08:26,659 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:08:29,481 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:08:29,482 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:08:30,583 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:08:31,810 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:08:31,812 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:08:32,952 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:08:32,953 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:08:34,109 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:08:40,217 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:08:40,332 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:10:28,742 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:10:30,135 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:10:33,067 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:10:33,068 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:10:34,219 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:10:35,420 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:10:35,421 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:10:36,567 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:10:36,567 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:10:37,693 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:10:43,809 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:10:44,087 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:12:22,317 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:12:23,368 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:12:25,913 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:12:25,914 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:12:27,175 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:12:29,432 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:12:29,434 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:12:30,580 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:12:30,581 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:12:31,740 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:12:37,870 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:12:38,017 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:14:21,281 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:14:23,681 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:14:26,518 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:14:26,519 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:14:27,639 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:14:28,824 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:14:28,825 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:14:29,956 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:14:29,957 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:14:31,092 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:14:37,202 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:14:37,317 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:16:23,471 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:16:24,990 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:16:27,665 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:16:27,666 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:16:28,781 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:16:30,007 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:16:30,008 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:16:31,151 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:16:31,152 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:16:32,311 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:16:38,428 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:16:38,544 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:18:25,482 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:18:26,656 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:18:29,390 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:18:29,391 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:18:30,546 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:18:31,726 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:18:31,727 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:18:33,000 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:18:33,001 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:18:34,134 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:18:40,286 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:18:40,452 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:20:24,623 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:20:25,727 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:20:28,459 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:20:28,461 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:20:29,571 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:20:30,749 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:20:30,750 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:20:31,889 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:20:31,889 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:20:33,023 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:20:39,131 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:20:39,279 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:22:22,349 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:22:23,600 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:22:26,552 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:22:26,553 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:22:27,665 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:22:28,884 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:22:28,885 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:22:30,030 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:22:30,032 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:22:31,173 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:22:37,282 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:22:37,398 [main] INFO CoverFoxInsurance - closing browser
+2024-10-05 23:24:26,280 [main] INFO CoverFoxInsurance - launching browser
+2024-10-05 23:24:27,610 [main] INFO CoverFoxInsurance - clicking on male button
+2024-10-05 23:24:30,191 [main] WARN CoverFoxInsurance - Age should be between 18-90
+2024-10-05 23:24:30,192 [main] INFO CoverFoxInsurance - Select age from age drop down
+2024-10-05 23:24:31,327 [main] INFO CoverFoxInsurance - click on next button
+2024-10-05 23:24:32,474 [main] WARN CoverFoxInsurance - please enter valid pincode
+2024-10-05 23:24:32,474 [main] INFO CoverFoxInsurance - please enter pincode
+2024-10-05 23:24:33,643 [main] WARN CoverFoxInsurance - please enter valid mobile number
+2024-10-05 23:24:33,644 [main] INFO CoverFoxInsurance - enter mobile number
+2024-10-05 23:24:34,817 [main] INFO CoverFoxInsurance - click on continue button
+2024-10-05 23:24:40,934 [main] INFO CoverFoxInsurance - validating banners
+2024-10-05 23:24:41,058 [main] INFO CoverFoxInsurance - closing browser
